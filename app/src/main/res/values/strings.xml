@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VideoDemo</string>
+    <string name="dkplayer_replay">重新播放</string>
+    <string name="dkplayer_lock_tip">请先解锁屏幕！</string>
+    <string name="dkplayer_unlocked">已解锁</string>
+    <string name="dkplayer_locked">已锁定</string>
+    <string name="dkplayer_error_message">出了点小问题，请稍后重试</string>
+    <string name="dkplayer_retry"> 重    试 </string>
+    <string name="dkplayer_continue_play">继续播放</string>
+    <string name="dkplayer_wifi_tip">您正在使用移动网络，继续播放将消耗流量</string>
+    <string name="video_file_path">视频文件路径</string>
+    <string name="choose_video_file">选择视频文件</string>
+    <string name="folder_name_created">生成文件夹名</string>
+    <string name="image_type_created">生成图片格式</string>
+    <string name="start">开始</string>
+</resources>
